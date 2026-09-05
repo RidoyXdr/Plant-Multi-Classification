@@ -33,11 +33,11 @@ Plant-Multi-Classification/
 ├── requirements.txt     # Python dependencies
 └── README.md            # Thesis project documentation
 
----
 
-## 🚀 Getting Started
+
+🚀 Getting Started
 git clone [https://github.com/RidoyXdr/Plant-Multi-Classification.git](https://github.com/RidoyXdr/Plant-Multi-Classification.git)
 cd Plant-Multi-Classification
 
-## Install Dependencies
+🚩Install Dependencies
 pip install -r requirements.txt

@@ -1,6 +1,6 @@
 # Plant Multi-Classification System 🌿
 
-An advanced Machine Learning and Computer Vision-based thesis project designed for multi-class classification and identification of plant species and plant organs from visual data.
+A Deep Learning-based thesis project designed for multi-class classification and identification of plant species and plant organs from visual data.
 
 ---
 
@@ -32,12 +32,3 @@ Plant-Multi-Classification/
 ├── src/                 # Source code for training, testing, and evaluation
 ├── requirements.txt     # Python dependencies
 └── README.md            # Thesis project documentation
-
-
-
-🚀 Getting Started
-git clone [https://github.com/RidoyXdr/Plant-Multi-Classification.git](https://github.com/RidoyXdr/Plant-Multi-Classification.git)
-cd Plant-Multi-Classification
-
-🚩Install Dependencies
-pip install -r requirements.txt
